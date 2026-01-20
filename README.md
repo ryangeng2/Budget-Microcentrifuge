@@ -13,7 +13,7 @@ DC 775 Motor 12V/24V (D-shaft)	£16
 
 12v 5A 60W LED Power Supply AC-DC	£14
 
-(10) M3 Screws
+(10) M3 Screws + corresponding heated inserts
 
 Total Cost	£38
 
