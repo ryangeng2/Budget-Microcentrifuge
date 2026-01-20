@@ -1,6 +1,8 @@
 # Budget-Microcentrifuge
 A lab-grade microcentrifuge designed to prove the viability of low-cost DIY lab equipment. Safely reaches speeds of up to 3000 RPM.
 
+https://youtube.com/shorts/6cpViZY5gXk?feature=share
+
 <img width="573" height="804" alt="image" src="https://github.com/user-attachments/assets/fd76c097-c036-4525-91b2-754f4585f877" /> <img width="570" height="470" alt="image" src="https://github.com/user-attachments/assets/1dcb33e8-0510-4ff3-9d94-6e515e0c3783" />
 
 Takes 1.5ml Eppendorf Tubes
