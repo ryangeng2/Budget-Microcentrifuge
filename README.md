@@ -20,3 +20,5 @@ DC 775 Motor 12V/24V (D-shaft)	£16
 Total Cost	£38
 
 All custom parts are included in the repository. All parts can be 3D-printed except for the acrylic lid, which should be laser-cut or CNC'd. 
+
+![IMG_1411](https://github.com/user-attachments/assets/f638b4f4-17cd-4155-8aab-f7212946d656)
